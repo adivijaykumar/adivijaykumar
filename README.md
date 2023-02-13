@@ -4,7 +4,7 @@ I am a final-year graduate student at [ICTS-TIFR](https://www.icts.res.in) in th
 
 More information about me can be found on my [personal website](https://adivijaykumar.github.io/)! Here are some quick links:
 
-[**CV**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/adivijaykumar/resume/master/Vijaykumar_CV_with_pubs.pdf) [**Publications**](https://ui.adsabs.harvard.edu/user/libraries/LqJDfKCTTdeuL_Inb7SwVw) 
+[**CV**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/adivijaykumar/resume/master/Vijaykumar_CV_with_pubs.pdf) | [**Publications**](https://ui.adsabs.harvard.edu/user/libraries/LqJDfKCTTdeuL_Inb7SwVw) 
 
 <!--
 **adivijaykumar/adivijaykumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
