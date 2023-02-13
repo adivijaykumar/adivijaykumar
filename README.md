@@ -1,4 +1,10 @@
-### Hi 👋, I am Aditya
+### Hi 👋, I am Aditya!
+
+I am a final-year graduate student at [ICTS-TIFR](https://www.icts.res.in) in the [Astrophysical Relativity](https://www.icts.res.in/research/astrorel) group. I am also currently a [Fulbright-Nehru Doctoral Research Fellow](https://www.usief.org.in/Fulbright-Nehru-Doctoral-Research-Fellowships.aspx) at [The University of Chicago](https://physics.uchicago.edu/).
+
+More information about me can be found on my [personal website](https://adivijaykumar.github.io/)! Here are some quick links:
+
+[**CV**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/adivijaykumar/resume/master/Vijaykumar_CV_with_pubs.pdf) [**Publications**](https://ui.adsabs.harvard.edu/user/libraries/LqJDfKCTTdeuL_Inb7SwVw) 
 
 <!--
 **adivijaykumar/adivijaykumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
