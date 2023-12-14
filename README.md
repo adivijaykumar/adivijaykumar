@@ -1,6 +1,6 @@
 ### Hi 👋, I am Aditya!
 
-I am a final-year graduate student at [ICTS-TIFR](https://www.icts.res.in) in the [Astrophysical Relativity](https://www.icts.res.in/research/astrorel) group. 
+I am a postdoctoral fellow at [CITA](https://www.cita.utoronto.ca/). 
 
 More information about me can be found on my [personal website](https://adivijaykumar.github.io/)! Here are some quick links:
 
