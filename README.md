@@ -1,6 +1,6 @@
 ### Hi 👋, I am Aditya!
 
-I am a postdoctoral fellow at [CITA](https://www.cita.utoronto.ca/). 
+I am a [Schmidt Fellow]([url](https://aiscience.uchicago.edu/)) and [KICP Associate Fellow]([url](https://kavlicosmo.uchicago.edu/)) at The University of Chicago. 
 
 More information about me can be found on my [personal website](https://adivijaykumar.github.io/)! Here are some quick links:
 
